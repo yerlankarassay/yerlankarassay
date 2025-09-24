@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**yerlankarassay/yerlankarassay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👋, Let me introduce you to the one and only Yerlan Karassay!
+# 👋, Let me introduce you to the one and only Yerlan Karassay!
 🔭 I’m into Financial Markets and Algorithmic Trading Strategies looking to get into the field of Quantitative Analyst/Trading/Research.
 🌱 I’m a 2nd year Physics (BSc Hons) student at Durham University.
 👯 I’m looking to collaborate on any Python Projects where we can implement ML models to predict equity prices and test trading strategies.
