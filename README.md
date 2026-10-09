@@ -1,4 +1,4 @@
-# 👋, Welcome to my profile, I'm Yerlan!  
+# A great welcome to Yerlan's GitHub, Sir/Madam
 I’m a penultimate year MPhys Physics student at Durham University and I'm looking to learn more about how the asset classes, macroeconomics and mathematics intereact with each other. 
 
 
